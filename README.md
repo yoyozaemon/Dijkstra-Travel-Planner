@@ -7,6 +7,4 @@ A travel planner that calculates the optimal travel route by plane or bus based 
 `` 
 $ cd Dijkstra-Travel-Planner/ ``
 ``
-$ make                        #To Run The Program 
-
-``
+$ make                        #To Run The Program``
